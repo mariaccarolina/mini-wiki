@@ -14,5 +14,15 @@ img {
 }
 
 h1 {
-  color: rgb(120, 23, 39);
+  font-family: "Nerko One", cursive;
+  color: rgb(105, 10, 26);
+}
+
+.tituloMusicas {
+  color: blanchedalmond;
+}
+
+ol {
+  background-color: rgba(124, 40, 93, 0.203);
+  color: azure;
 }/*# sourceMappingURL=style.css.map */

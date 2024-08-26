@@ -22,7 +22,25 @@ img{
 }
 
 h1{
+   //font-family, mudar o tipo de font
+   
+   font-family: "Nerko One", cursive;
    //color = cor
-   color: rgb(120, 23, 39);
+   color: rgb(105, 10, 26);
    //red, green, blue, 0 ao 255
+}
+// no index.html nos vamos nomear a tag -> class
+// para chamar uma class aqui no style precisamos usar o: .nomeDaClass
+.tituloMusicas{
+   // propriedade:valor;
+   color: blanchedalmond;
+}
+
+ol{
+   //COR HEXADECIMAL
+    //  # SEGUIDA DE 3 PARES, CADA PARA É REFERENTE AO RGB, 00, ff
+   //background-color: #040433;
+   //rgb + alpha(rgba) ele é referente ao uma cor com opacidade/trasparencia
+   background-color: rgba(124, 40, 93, 0.203);
+   color: azure;
 }
